@@ -17,13 +17,13 @@ My passion is solving real-world problems with software solutions and building e
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **kvksatish105@outlook.com**
+- 📫 How to reach me **gauravpadaliya2000@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xAJB3V8HY4AoSl58wM1GRPx-bucYcclr/view?usp=sharing](https://drive.google.com/file/d/1xAJB3V8HY4AoSl58wM1GRPx-bucYcclr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kvk-satish-9b51bb1b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kvk-satish-9b51bb1b4/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gaurav-padaliya-701b531a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kvk-satish-9b51bb1b4/" height="30" width="40" /></a>
 </p>
 
   <h2><i>Tech Stack</i></h2>
@@ -53,7 +53,7 @@ My passion is solving real-world problems with software solutions and building e
 <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kvksatish&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="kvkstats" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kvksatish&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="gaurav" height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvksatish&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="kvksatishlang" height="139" />
 </p>
 <br>
