@@ -19,7 +19,7 @@ My passion is solving real-world problems with software solutions and building e
 
 - 📫 How to reach me **gauravpadaliya2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xAJB3V8HY4AoSl58wM1GRPx-bucYcclr/view?usp=sharing](https://drive.google.com/file/d/1xAJB3V8HY4AoSl58wM1GRPx-bucYcclr/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1xAJB3V8HY4AoSl58wM1GRPx-bucYcclr/view?usp=sharing](https://drive.google.com/file/d/1fIg1b63fZyIkcqq45VSCYixbelV0Qsn5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
