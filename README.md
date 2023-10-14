@@ -13,7 +13,7 @@ My passion is solving real-world problems with software solutions and building e
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvksatish&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://kvksatish.netlify.app/](https://kvksatish.netlify.app/)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **MERN Stack**
 
