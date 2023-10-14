@@ -11,7 +11,7 @@ My passion is solving real-world problems with software solutions and building e
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kvksatish&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-padaliya&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav" /> </p>
 
 - 👨‍💻 All of my projects are available at 
 
